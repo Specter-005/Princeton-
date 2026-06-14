@@ -1,17 +1,123 @@
-<h1 align="center">Hi 👋, I'm Princeton Vishal</h1>
-<h3 align="center">I am a CSE student at SRM Vadapalani with a strong passion for Artificial Intelligence and its applications in real-world problem solving. I enjoy exploring AI to design and develop smarter, developer-focused tools that simplify workflows, enhance productivity, and make coding more efficient. With a curious mindset and hands-on approach, I aim to blend technology and creativity to build solutions that are both practical and impactful.</h3>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=J%20Princeton%20Vishal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</div>
 
-- 🔭 I’m currently working on **Hangman Game**
+<div align="center">
 
-- 🌱 I’m currently learning **Prompt Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineer+%40+Stratova.ai;Full-Stack+Developer;Building+AI-Powered+Products;Always+Learning+%7C+Always+Building"/>
 
-- 📫 How to reach me **Princetonvishalofficial@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/j. princeton vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j. princeton vishal" height="30" width="40" /></a>
-<a href="https://discord.gg/prince058104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prince058104" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## About Me
+
+- **B.Tech Artificial Intelligence & Machine Learning** at SRM Institute of Science and Technology
+- **Software Engineer** at Stratova.ai
+- Based in Chennai, India
+- Interested in Artificial Intelligence, Machine Learning, Product Engineering, and Full-Stack Development
+- Focused on building scalable software and AI-driven solutions
+
+---
+
+## Experience
+
+### Software Engineer | Stratova.ai
+**May 2026 – Present**
+- Building AI-powered software solutions and automation systems
+- Developing scalable full-stack applications using React, Next.js, and REST APIs
+- Integrating Large Language Models into production workflows
+- Collaborating with cross-functional teams throughout the product lifecycle
+
+### Web Development Intern | Kay Tee Tooling Technologies Pvt Ltd
+**Jun 2025 – Jul 2025**
+- Developed a responsive corporate website for a tooling and manufacturing company
+- Built dynamic service pages and machine showcase modules
+- Worked closely with stakeholders to deliver business requirements
+
+### Inplant Trainee | Heavy Vehicles Factory (HVF), Avadi
+**Dec 2024**
+- Studied industrial manufacturing processes and workflows
+- Prepared technical reports and documentation
+- Gained exposure to large-scale production systems
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,mysql" />
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind" />
+
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode" />
+
+</div>
+
+### Artificial Intelligence & Machine Learning
+- **Core AI:** Machine Learning, Deep Learning, Generative AI
+- **Specialized:** Prompt Engineering, Explainable AI, LSTM Networks, AI Agents
+
+---
+
+
+## Featured Projects
+
+- **DiscussAI:** AI-powered Group Discussion Practice Platform featuring real-time feedback, communication analytics, and confidence tracking.
+- **IdeaLens:** Startup Idea Evaluation Platform that performs feasibility analysis, competitor analysis, and AI-generated recommendations.
+- **Phishing Detection System:** Deep Learning-based cybersecurity solution for detecting malicious URLs and phishing emails with explainable AI outputs.
+- **Stock Prediction & Portfolio Management System:** Investment intelligence platform using LSTM forecasting, sentiment analysis, and portfolio tracking.
+- **Self-Evolving Multi-Model AI System:** AI orchestration framework with dynamic model selection, intelligent routing, and autonomous optimization.
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Specter-005/Specter-005/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## Certifications, Leadership & Extracurriculars
+
+### Certifications
+- **NPTEL:** Programming in Java (Elite + Gold), Introduction to Machine Learning, Design Thinking: A Primer
+- **Others:** Data Structures & Algorithms using C++, Introduction to MongoDB, Introduction to Cybersecurity (Cisco)
+
+### Leadership
+- **Board of Director** – NextGen Intelligence Club
+- **Communication Lead** – Microsoft ARC Shift
+- **Social Media Analyst** – SRMIST
+- **Volunteer** – NSS
+
+### Sports & Achievements
+- Inter-State Yoga Gold Medalist
+- District-Level Yoga Bronze Medalist
+- Former Football Player – Cosmos Football Club
+- Former Cricket Player – Skylab Cricket Club
+
+---
+
+## Contact Me
+
+- **Email:** princetonvishal@gmail.com
+- **LinkedIn:** [princeton-vishal-2k05](https://www.linkedin.com/in/princeton-vishal-2k05/)
+- **GitHub:** [Specter-005](https://github.com/Specter-005E)
+
+<br>
+
+<div align="center">
+
+*"Building intelligent products that create real-world impact through AI and software engineering."*
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
+</div>
