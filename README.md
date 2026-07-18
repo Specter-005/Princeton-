@@ -26,7 +26,7 @@
 ## Experience
 
 ### Software Engineer | Stratova.ai
-**May 2026 – Present**
+**May 2026 – July 2026**
 - Building AI-powered software solutions and automation systems
 - Developing scalable full-stack applications using React, Next.js, and REST APIs
 - Integrating Large Language Models into production workflows
