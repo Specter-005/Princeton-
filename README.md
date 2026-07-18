@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineer+%40+Stratova.ai;Full-Stack+Developer;Building+AI-Powered+Products;Always+Learning+%7C+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Artificial+Intelligence+%26+Machine+Learning;Building+AI-Powered+Products;Always+Learning+%7C+Always+Building"/>
 
 <br>
 
